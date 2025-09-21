@@ -115,6 +115,6 @@ psql learning_forum
 
 ## 联系我们
 
-- 项目仓库: [GitHub](https://github.com/your-org/learning-forum)
-- 问题反馈: [Issues](https://github.com/your-org/learning-forum/issues)
-- 邮件联系: contact@learnhub.com
+- 项目仓库: [GitHub](https://github.com/Feipi/LearnHub)
+- 问题反馈: [Issues](https://github.com/Feipi/LearnHub/issues)
+- 邮件联系: 3068315381@qq.com
